@@ -9,6 +9,17 @@ h1 {
   font-size: 15px;
 }
 
+.note__delete {
+  display: inline-block;
+  margin-left: 2px;
+  opacity: 0;
+  padding-right: 10px;
+}
+
+.note:hover .note__delete {
+  opacity: 1;
+}
+
 .error {
   color: red;
   background: lightgrey;

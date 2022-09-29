@@ -27,14 +27,8 @@
     {
       "content": "hello",
       "date": "2022-09-22T08:20:09.158Z",
-      "important": true,
+      "important": false,
       "id": 5
-    },
-    {
-      "content": "bruh",
-      "date": "2022-09-22T08:23:07.983Z",
-      "important": true,
-      "id": 6
     },
     {
       "content": "does this work",
@@ -51,7 +45,7 @@
     {
       "content": "so why complain",
       "date": "2022-09-22T08:23:47.412Z",
-      "important": true,
+      "important": false,
       "id": 9
     },
     {
@@ -63,50 +57,8 @@
     {
       "content": "console stupid",
       "date": "2022-09-22T08:23:54.877Z",
-      "important": false,
+      "important": true,
       "id": 11
-    },
-    {
-      "content": "now",
-      "date": "2022-09-22T08:25:27.137Z",
-      "important": true,
-      "id": 12
-    },
-    {
-      "content": "lets",
-      "date": "2022-09-22T08:25:28.923Z",
-      "important": true,
-      "id": 13
-    },
-    {
-      "content": "see",
-      "date": "2022-09-22T08:25:30.000Z",
-      "important": false,
-      "id": 14
-    },
-    {
-      "content": "if",
-      "date": "2022-09-22T08:26:15.840Z",
-      "important": false,
-      "id": 15
-    },
-    {
-      "content": "this",
-      "date": "2022-09-22T08:26:17.082Z",
-      "important": false,
-      "id": 16
-    },
-    {
-      "content": "works",
-      "date": "2022-09-22T08:26:18.651Z",
-      "important": true,
-      "id": 17
-    },
-    {
-      "content": "yay",
-      "date": "2022-09-22T08:28:24.192Z",
-      "important": false,
-      "id": 18
     },
     {
       "content": "still working",
@@ -115,46 +67,34 @@
       "id": 19
     },
     {
-      "content": "fd",
-      "date": "2022-09-22T09:34:38.766Z",
-      "important": false,
-      "id": 20
-    },
-    {
-      "content": "we",
-      "date": "2022-09-22T09:34:43.243Z",
-      "important": false,
-      "id": 21
-    },
-    {
-      "content": "a",
-      "date": "2022-09-22T09:35:30.464Z",
-      "important": true,
-      "id": 22
-    },
-    {
-      "content": "fds",
-      "date": "2022-09-22T09:35:34.292Z",
-      "important": true,
-      "id": 23
-    },
-    {
-      "content": "as",
-      "date": "2022-09-22T09:35:58.181Z",
-      "important": false,
-      "id": 24
-    },
-    {
-      "content": "f",
-      "date": "2022-09-22T09:36:01.447Z",
-      "important": true,
-      "id": 25
-    },
-    {
       "content": "test",
       "date": "2022-09-23T03:29:56.611Z",
       "important": true,
       "id": 26
+    },
+    {
+      "content": "temp",
+      "date": "2022-09-29T01:34:05.757Z",
+      "important": true,
+      "id": 27
+    },
+    {
+      "content": "good",
+      "date": "2022-09-29T02:37:39.801Z",
+      "important": true,
+      "id": 28
+    },
+    {
+      "content": "do GB later",
+      "date": "2022-09-29T03:59:06.352Z",
+      "important": true,
+      "id": 31
+    },
+    {
+      "content": "yay delete works",
+      "date": "2022-09-29T07:09:08.524Z",
+      "important": false,
+      "id": 32
     }
   ]
 }
